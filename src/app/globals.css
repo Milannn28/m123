@@ -37,7 +37,7 @@ body {
   background-size: cover;
   background-position: center;
   min-height: 100vh;
-  max-width: inherit;
+  max-width: 390px;
   margin: 0 auto;
 background-color: #FFF84D;
  
@@ -45,4 +45,18 @@ background-color: #FFF84D;
 .box-shadow{
   box-shadow: 0px 4px 0px 0px #B46811;
 }
-
+.purple-box-shadow{
+  box-shadow: 0px 6px 0px 0px rgba(129, 119, 173, 1);
+}
+.membership{
+  background-image: url("/images/capa.png");
+  background-size: cover;
+  box-shadow: 0px 4px 0px 0px rgba(69, 69, 69, 1);
+  ;
+}
+.shadow-upper {
+  box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+}
+  .swiper{
+    width: 100%;
+  }
